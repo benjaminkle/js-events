@@ -48,3 +48,7 @@ input {
   width: 200px;
   text-align: center;
 }
+#focusInput:focus {
+  outline: 2px solid #2ecc71; /* green outline on focus */
+  background-color: #eaffea; /* light green background */
+}
